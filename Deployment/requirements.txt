@@ -1,0 +1,7 @@
+mlflow
+pandas
+scikit-learn  # Or your model's ML library
+fastapi
+uvicorn[standard]  # High-performance ASGI server + extras
+gunicorn           # Production-ready process manager for uvicorn
+python-multipart
